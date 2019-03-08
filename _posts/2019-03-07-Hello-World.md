@@ -17,7 +17,7 @@ Since ray tracer is very suitable for OOP programming and its properties(inherit
 
 While implementing the ray tracer, most of the time I encountered problem because of the mathematical mistakes that I forget. 
 ### Future Tasks
-
+---
 * Multisampling
 * Accelaration Structures
 * Distirbution Ray Tracing(Depth of Field, Glossy Reflection, Soft Shadows)
@@ -26,12 +26,12 @@ While implementing the ray tracer, most of the time I encountered problem becaus
 ---
 ![_config.yml]({{ site.baseurl }}/images/bunny.png)
 
-23,512 seconds
+##### 23,512 seconds
 
 ![_config.yml]({{ site.baseurl }}/images/spheres.png)
 
-0.295 seconds
+##### 0.295 seconds
 
 ![_config.yml]({{ site.baseurl }}/images/cornellbox.png)
 
-0.927 seconds
+##### 0.927 seconds
