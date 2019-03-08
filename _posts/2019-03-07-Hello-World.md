@@ -28,11 +28,11 @@ While implementing the ray tracer, most of the time I encountered problem becaus
 #### bunny.xml (512 X 512) 23,512 seconds
 ![_config.yml]({{ site.baseurl }}/images/bunny.png)
 
-
+----
 #### spheres.xml (720 X 720) 0.295 seconds
 ![_config.yml]({{ site.baseurl }}/images/spheres.png)
 
-
+----
 #### cornellbox.xml (800 X 800) 0.927 seconds
 ![_config.yml]({{ site.baseurl }}/images/cornellbox.png)
 
