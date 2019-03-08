@@ -23,3 +23,5 @@ While implementing the ray tracer, most of the time I encountered problem becaus
 * Distirbution Ray Tracing(Depth of Field, Glossy Reflection, Soft Shadows)
 
 ## Images
+
+![_config.yml]({{ site.baseurl }}/images/bunny.png)
