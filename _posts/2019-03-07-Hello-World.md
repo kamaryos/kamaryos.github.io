@@ -23,5 +23,15 @@ While implementing the ray tracer, most of the time I encountered problem becaus
 * Distirbution Ray Tracing(Depth of Field, Glossy Reflection, Soft Shadows)
 
 ## Images
-
+---
 ![_config.yml]({{ site.baseurl }}/images/bunny.png)
+
+23,512 seconds
+
+![_config.yml]({{ site.baseurl }}/images/spheres.png)
+
+0.295 seconds
+
+![_config.yml]({{ site.baseurl }}/images/cornellbox.png)
+
+0.927 seconds
