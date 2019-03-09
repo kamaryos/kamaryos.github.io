@@ -4,7 +4,7 @@ title: Advanced Ray Tracing Part 1
 ---
 This post will be the beginning of the post series which I will share the experience on coding a ray tracer in C++. I will share a information about my working environment and the steps that I am taking in this part of the ray tracer. In addition to these, I will share images and their rendering time. 
 
-I am using Intel® Core™ i5-3230M CPU and Ubuntu 18.04 as a working environment.
+I am using Intel® Core™ i5-3230M and Ubuntu 18.04 as a working environment.
 
 
 ### Implementation
