@@ -15,7 +15,9 @@ Before starting the implementation of the ray tracer, I need a parser for the fo
 
 Since ray tracer is very suitable for OOP programming and its properties(inheritance...), I used the advantage of it while implementing my ray tracer. I constructed objects for the shapes and I also defined ray as a object for more appropiate inputs to my functions. 
 
-While implementing the ray tracer, most of the time I encountered problem because of the mathematical mistakes that I forget. 
+While implementing the ray tracer, most of the time I encountered problem because of the mathematical mistakes that I forget. But the most tricky part in this part of the ray tracer is implementing the transparent objects in ray tracer, I had several mistakes and images differences in my implementation.
+
+While implementing my raytracer, I mainly used the our lecture notes, Fundementals of Computer Graphics , pbrt and scratchpixel introduction notes.
 ### Future Tasks
 ---
 * Multisampling
