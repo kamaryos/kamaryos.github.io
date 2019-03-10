@@ -20,7 +20,7 @@ While implementing the ray tracer, most of the time I encountered problem becaus
 While implementing my raytracer, I mainly used the our lecture notes, Fundementals of Computer Graphics , pbrt and scratchpixel introduction notes.
 ### Future Tasks
 ---
-* Solving Transparency
+* Solving Transparency Problem
 * Multisampling
 * Accelaration Structures
 * Distirbution Ray Tracing(Depth of Field, Glossy Reflection, Soft Shadows)
