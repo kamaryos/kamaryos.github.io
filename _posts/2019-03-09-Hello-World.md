@@ -15,11 +15,12 @@ Before starting the implementation of the ray tracer, I need a parser for the fo
 
 Since ray tracer is very suitable for OOP programming and its properties(inheritance...), I used the advantage of it while implementing my ray tracer. I constructed objects for the shapes and I also defined ray as a object for more appropiate inputs to my functions. 
 
-While implementing the ray tracer, most of the time I encountered problem because of the mathematical mistakes that I forget. But the most tricky part in this part of the ray tracer is implementing the transparent objects in ray tracer, I had several mistakes and images differences in my implementation.
+While implementing the ray tracer, most of the time I encountered problem because of the mathematical mistakes that I forget. But the most tricky part in this part of the ray tracer is implementing the transparent objects in ray tracer, I have several mistakes and images differences in my implementation. I am unable to solve the problem related to the reflection in the glass object because of that the cornellbox_glass image is not quite true. In addition to that, the same problem gives differences in scienceTree as well.
 
 While implementing my raytracer, I mainly used the our lecture notes, Fundementals of Computer Graphics , pbrt and scratchpixel introduction notes.
 ### Future Tasks
 ---
+* Solving Transparency
 * Multisampling
 * Accelaration Structures
 * Distirbution Ray Tracing(Depth of Field, Glossy Reflection, Soft Shadows)
@@ -38,3 +39,10 @@ While implementing my raytracer, I mainly used the our lecture notes, Fundementa
 #### cornellbox.xml (800 X 800) in 0.927 seconds
 ![_config.yml]({{ site.baseurl }}/images/cornellbox.png)
 
+----
+#### cornellbox_glass.xml (800 X 800) in 1,702 seconds 
+![_config.yml]({{ site.baseurl }}/images/cornellbox_glass.png)
+
+----
+#### scienceTree.xml (1440 X 720) in 1 minute 35,593 seconds
+![_config.yml]({{ site.baseurl }}/images/scienceTree.png)
